@@ -1,4 +1,4 @@
-# To Do list
+# To Do list - UI Development
 This is a practice project done to upskill myself in FrontEnd Web Development :) <br/> <br/>
 This ToDo list website that allows user to 
 * add ToDo element
